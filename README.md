@@ -15,11 +15,10 @@
 - [Business Context](#business-context)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Packages](#packages)
-- [Repo link:](#repo-link)
-- [HEROKU Deployed link:](#heroku-deployed-link)
+- [Repo link](#repo-link)
+- [HEROKU Deployed link](#heroku-deployed-link)
 - [Screenshots - Landing page](#screenshots---landing-page)
 - [App Developer](#app-developer)
-- [Hint](#hint)
 
 ## Description
 
@@ -60,10 +59,10 @@ THEN that will be shown on the page, and added to their transaction history when
   * [morgan](https://www.npmjs.com/package/morgan) *- HTTP request logger middleware for node.js*
   * [shield-io](https://shields.io/) *- for readme file*
 
-## Repo link:
+## Repo link
 [Workout Tracker Repo](https://github.com/marora7926/budget-tracker)
 
-## HEROKU Deployed link:
+## HEROKU Deployed link
 [Workout Tracker Application](https://budget-tracker-ma.herokuapp.com/)
 
 ## Screenshots - Landing page
@@ -77,12 +76,3 @@ Repo: https://github.com/marora7926
 ```
 - - -
 © 2021 Mohit Arora. Confidential and Proprietary. All Rights Reserved.
-
-
-
-- - -
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
-
-## Hint
-* In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
-* Use [Google](https://www.google.com) or another search engine to research this topic.

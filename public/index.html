@@ -45,7 +45,8 @@
   <script src="./assets/js/index.js"></script>
   <script>
       if ('serviceWorker' in navigator) {
-        navigator.serviceWorker
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
           .register('service-worker.js')
           .then((registration) => {
             console.log('Service Worker Registered!');
@@ -54,6 +55,7 @@
             console.log('Service Worker Registration Failed!');
             console.log(error);
           });
+        });
       }
   </script>
 </body>

@@ -66,7 +66,7 @@ THEN that will be shown on the page, and added to their transaction history when
 [Workout Tracker Application](https://budget-tracker-ma.herokuapp.com/)
 
 ## Screenshots - Landing page
-![Screenshot-landing-page](./public/images/landing_page.png)
+![Screenshot-landing-page](./public/assets/images/landing-page.png)
 
 ## App Developer
 ```

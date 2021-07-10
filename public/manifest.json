@@ -1,6 +1,7 @@
 {
   "short_name": "Budget Tracker",
   "name": "Web App Budget Tracker",
+  "description": "An app with offline functionality to help your with your monthly budget",
   "icons": [
     {
       "src": "/assets/images/icons/icon-192x192.png",
